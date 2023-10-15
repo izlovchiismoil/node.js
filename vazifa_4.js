@@ -1,6 +1,6 @@
-console.log(sonniAniqlash (10011));
+console.log(sonniXonaRaqamlariniAniqlash (10011));
 
-function sonniAniqlash (a) {
+function sonniXonaRaqamlariniAniqlash (a) {
 
     if (a < 0) {
         return "1 dan kichik son kiritilgan";
